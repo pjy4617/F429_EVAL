@@ -1,0 +1,10 @@
+{
+    "cortex-debug.armToolchainPath": "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin",
+    "cortex-debug.openocdPath": "C:\\PROGRAM FILES\\XPACK-OPENOCD-0.11.0-4\\BIN\\OPENOCD.EXE",
+    "cortex-debug.gdbPath": "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2021.10\\bin\\arm-none-eabi-gdb",
+    "cortex-debug.stlinkPath": "C:\\ST\\stlink-1.7.0-x86_64-w64-mingw32\\bin\\st-util",
+    "cortex-debug.stm32cubeprogrammer": "C:\\Program Files\\STMicroelectronics\\STM32Cube\\STM32CubeProgrammer\\bin\\STM32_Programmer_CLI",
+    "files.associations": {
+        "main.h": "c"
+    },
+}
